@@ -24,9 +24,9 @@ Apple_Grading_Detection/
 
 ### 1. 环境要求
 
-- Python 3.7+
+- Python 3.7+（本项目采用3.923）
 - PyTorch 1.7+
-- CUDA 10.1+ (推荐 GPU 加速)
+- CUDA 10.1+ (推荐 GPU 加速，本项目采用cu121)
 
 ### 2. 安装依赖
 
@@ -110,5 +110,5 @@ DataSet/
 MIT License
 
 ## 致谢
-
+感谢李宏利老师的指导，以及组内其他成员的工作！
 感谢所有为此项目做出贡献的开发者。
