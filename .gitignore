@@ -1,0 +1,24 @@
+# 本地排除：不上传复杂版 UI 模块
+UI_module_complex/
+
+# 本地数据和运行输出，不上传到 GitHub
+DataSet/
+数据集/
+runs/
+local_archives/
+*.zip
+
+# 训练/推理输出和缓存，不上传
+**/logs/
+**/runs/
+**/map_out/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.pth
+*.pt
+*.torchscript
+*.onnx
+*.engine

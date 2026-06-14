@@ -1,0 +1,494 @@
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10003.jpg 610,243,860,668,1 320,357,621,745,1 383,6,723,395,1 56,9,389,383,1 3,360,325,758,1 529,693,821,860,1 204,698,528,860,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10012.jpg 153,7,230,84,1 69,49,185,162,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10016.jpg 71,24,488,432,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10022.jpg 33,144,352,460,1 303,99,460,359,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10034.jpg 234,167,442,360,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10035.jpg 105,129,381,399,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10044.jpg 28,23,170,211,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10045.jpg 63,40,114,91,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10054.jpg 61,244,657,819,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10061.jpg 1636,246,3066,1731,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10069.jpg 1271,651,3206,2616,1 2886,521,3446,1091,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10071.jpg 516,146,3036,2621,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10088.jpg 126,84,201,162,1 68,23,148,102,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10089.jpg 402,281,690,574,1 104,290,404,584,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10105.jpg 287,294,538,552,1 58,258,298,507,1 178,160,378,328,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10106.jpg 60,192,272,393,1 101,412,172,479,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10116.jpg 116,124,413,404,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10120.jpg 303,236,512,450,1 103,385,350,514,1 105,105,322,340,1 287,16,490,222,1 117,7,295,116,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10121.jpg 47,58,346,332,1 338,85,636,387,1 615,115,846,365,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10129.jpg 65,42,193,165,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10135.jpg 66,96,549,586,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10136.jpg 18,30,152,157,1 147,20,269,134,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10153.jpg 247,162,549,450,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10181.jpg 60,89,172,191,1 2,345,71,424,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10185.jpg 95,26,383,314,1 378,48,460,152,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10209.jpg 123,110,403,355,1 374,163,564,378,1 1,204,116,453,3 83,411,193,471,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10213.jpg 225,181,458,399,1 230,388,468,629,1 450,279,711,510,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10220.jpg 358,121,1023,783,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10230.jpg 798,634,958,786,1 489,488,599,599,1 263,531,379,646,1 429,764,531,868,1 1103,461,1224,594,3 988,641,1108,796,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10242.jpg 988,1084,2021,2078,3 98,1,831,828,3 1048,2278,1441,2751,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10244.jpg 1154,2611,2064,3024,3 864,1138,2368,2644,3 764,3024,1184,3024,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10258.jpg 549,344,1879,1966,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10267.jpg 621,694,1396,1466,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10270.jpg 871,514,2281,1981,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10285.jpg 2168,1854,2924,2594,3 1031,1178,2281,2528,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10288.jpg 1111,924,2508,2274,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10312.jpg 684,1471,2024,2938,1 8,2094,798,3024,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10315.jpg 1,39,151,246,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10322.jpg 488,2248,1564,3024,1 1778,2361,2078,2691,1 774,791,2221,2148,3 1548,1528,2411,2391,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10325.jpg 1218,1068,2398,2254,3 8,1,514,904,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10328.jpg 804,1034,2071,2264,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10330.jpg 824,888,2231,2234,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10341.jpg 1211,921,2651,2456,3 121,1941,926,2831,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10359.jpg 634,508,2091,1968,3 1964,1678,2571,2358,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10383.jpg 901,548,2221,1828,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10411.jpg 864,544,2588,2278,3 1914,2168,2218,2451,1 2844,2308,3025,2654,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10413.jpg 591,861,2518,2668,3 2071,521,2701,1121,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10417.jpg 644,548,2171,2054,3 4,914,368,1701,1 1931,1308,2428,2021,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10419.jpg 748,738,2198,2148,1 2078,1941,2724,2668,3 2721,528,3025,1398,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10427.jpg 641,658,1961,2011,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10434.jpg 991,808,2278,2091,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10442.jpg 371,174,968,778,3 921,928,2154,2178,3 1228,2484,1638,2921,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10444.jpg 103,1,231,125,3 193,147,329,258,3 14,142,140,269,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10451.jpg 6,6,136,134,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10453.jpg 9,7,133,129,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10454.jpg 219,86,317,183,3 164,10,260,99,3 130,96,225,196,3 29,119,129,221,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10468.jpg 159,54,234,128,3 95,64,186,159,3 76,43,154,96,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10477.jpg 1,69,32,127,3 38,62,99,121,3 27,9,87,68,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10496.jpg 24,21,210,208,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10497.jpg 606,453,1849,1818,3 8,1713,574,2208,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10513.jpg 724,909,1847,2102,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10527.jpg 291,346,1461,1431,1
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10551.jpg 148,59,263,165,3
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10555.jpg 270,134,641,580,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10569.jpg 165,178,293,379,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10570.jpg 1,25,404,641,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10585.jpg 82,215,218,411,2 248,86,336,234,2 450,174,552,306,2 214,363,276,448,2 178,15,261,148,2 343,317,442,455,2 487,266,609,465,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10616.jpg 328,5,421,133,2 360,279,499,470,2 265,344,375,515,2 95,297,193,430,2 106,433,203,558,2 38,350,110,487,2 46,492,114,581,2 20,169,103,276,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10624.jpg 166,135,490,548,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10682.jpg 222,88,522,466,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10687.jpg 120,56,475,590,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10691.jpg 327,122,447,301,2 198,77,326,236,2 148,235,228,353,2 461,199,530,258,2 571,245,638,356,2 600,360,641,500,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10706.jpg 247,231,346,386,2 355,254,448,384,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10709.jpg 254,211,377,409,2 383,234,497,406,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10715.jpg 378,9,469,139,2 169,99,252,215,2 88,141,170,261,2 247,499,338,631,2 392,379,464,490,2 483,323,556,450,2 456,461,537,588,2 566,272,640,394,2 57,533,130,630,2 124,344,212,469,2 248,182,323,317,2 413,265,482,364,2 488,186,563,316,2 154,3,230,86,2 85,13,159,122,2 309,86,388,203,2 364,503,455,640,2 160,228,233,327,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10739.jpg 128,358,209,481,2 350,378,427,509,2 156,231,236,350,2 529,389,615,512,2 339,1,420,103,2 2,467,71,575,2 51,550,156,636,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10742.jpg 150,423,262,609,2 293,363,383,466,2 38,398,146,553,2 240,533,370,638,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10764.jpg 197,99,516,565,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10768.jpg 184,182,457,517,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10769.jpg 194,179,397,477,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10772.jpg 97,309,209,466,2 231,243,380,465,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10781.jpg 22,330,177,572,2 187,245,407,567,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10797.jpg 43,228,284,575,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10825.jpg 37,229,236,529,2 430,259,626,548,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10827.jpg 333,232,474,433,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10841.jpg 192,158,438,525,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10852.jpg 186,291,316,460,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10862.jpg 239,223,409,486,2 436,221,613,484,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10896.jpg 246,212,367,410,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10898.jpg 104,135,407,606,2 137,8,397,140,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10901.jpg 129,100,500,632,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10907.jpg 33,89,343,547,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10916.jpg 52,186,295,470,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10931.jpg 155,191,398,337,2 249,348,491,505,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10932.jpg 317,79,550,432,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10935.jpg 203,100,470,270,2 251,286,506,449,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10939.jpg 97,221,320,360,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10947.jpg 5,48,354,636,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10955.jpg 267,224,381,347,2 129,259,226,396,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10963.jpg 18,159,183,236,2 402,353,585,463,2 77,491,217,573,2 194,423,328,506,2 1,469,86,567,2 42,54,216,163,2 229,163,368,254,2 417,274,520,341,2 1,30,66,107,2 163,351,313,421,2 38,384,177,478,2 522,130,632,208,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10964.jpg 133,3,267,130,2 31,104,163,321,2 347,76,499,303,2 66,330,236,566,2 186,133,331,272,2 243,258,401,487,2 500,140,620,385,2 398,386,536,579,2 172,545,276,641,2 305,560,426,640,2 303,3,437,115,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10984.jpg 51,175,321,427,2 324,173,587,435,2 191,420,457,640,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10989.jpg 129,72,226,209,2 193,260,286,405,2 343,145,391,254,2 175,1,293,99,2 141,390,245,531,2 291,287,392,423,2 485,228,551,350,2 384,336,453,457,2 112,522,220,639,2 152,222,221,305,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_10996.jpg 421,194,544,412,2 253,438,373,605,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11003.jpg 91,92,237,283,2 344,370,516,608,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11021.jpg 249,187,481,547,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11032.jpg 93,258,236,473,2 319,120,457,321,2 223,163,316,312,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11038.jpg 385,217,592,547,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11041.jpg 101,2,228,182,2 227,2,358,107,2 459,23,535,142,2 193,155,284,291,2 295,146,377,292,2 392,225,488,383,2 566,172,641,355,2 554,491,630,621,2 449,444,538,578,2 171,367,282,559,2 435,139,523,232,2 558,5,641,126,2 61,376,177,503,2 31,185,157,361,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11042.jpg 131,248,370,601,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11044.jpg 143,21,458,571,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11047.jpg 189,88,446,504,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11054.jpg 101,179,301,479,2 309,227,502,483,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11072.jpg 313,146,482,362,2 480,166,603,344,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11124.jpg 210,260,441,408,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11133.jpg 92,79,201,227,2 349,255,480,462,2 113,282,214,403,2 164,44,263,153,2 459,1,641,113,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11134.jpg 192,119,391,397,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11139.jpg 221,14,344,207,2 89,1,211,203,2 433,216,549,403,2 191,197,302,368,2 417,422,535,615,2 308,281,423,474,2 556,3,641,110,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11145.jpg 297,186,470,442,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11160.jpg 188,171,459,568,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11185.jpg 44,265,202,497,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11190.jpg 258,189,423,426,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11192.jpg 1,177,107,395,2 280,85,407,244,2 506,147,593,335,2 502,1,585,142,2 104,304,242,520,2 442,511,596,640,2 459,360,570,505,2 150,16,264,173,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11193.jpg 211,250,528,478,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11199.jpg 51,130,591,494,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11202.jpg 212,270,580,537,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11209.jpg 156,68,462,545,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11230.jpg 132,140,509,515,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11239.jpg 113,224,318,373,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11246.jpg 87,93,564,489,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11273.jpg 200,238,373,502,2 392,313,568,586,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11289.jpg 131,138,317,424,2 291,338,489,617,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11292.jpg 145,46,435,553,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11293.jpg 470,204,538,294,2 48,407,119,506,2 92,291,153,385,2 160,395,202,470,2 301,300,351,360,2 306,227,348,290,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11301.jpg 201,236,485,427,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11311.jpg 171,272,332,528,2 41,548,178,641,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11312.jpg 254,33,580,506,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11319.jpg 203,128,327,346,2 194,356,341,639,2 78,2,200,81,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11327.jpg 184,24,498,454,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11341.jpg 169,179,430,432,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11352.jpg 65,75,549,578,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11354.jpg 114,53,401,268,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11361.jpg 77,4,473,460,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11365.jpg 126,327,234,482,2 259,224,387,372,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11369.jpg 152,149,489,597,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11373.jpg 157,85,433,502,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11389.jpg 43,340,183,531,2 214,333,394,535,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11402.jpg 292,367,397,474,2 200,490,281,585,2 75,291,188,440,2 411,89,478,198,2 236,213,302,298,2 282,480,371,581,2 193,352,282,466,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11404.jpg 25,373,297,525,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11407.jpg 1,155,212,520,2 227,219,458,534,2 461,321,632,547,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11417.jpg 197,501,282,638,2 450,69,616,209,2 167,2,325,90,2 1,22,83,129,2 102,501,195,597,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11427.jpg 222,252,446,406,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11428.jpg 19,204,76,341,2 96,224,167,353,2 141,361,208,514,2 188,293,258,388,2 46,339,123,475,2 30,513,97,638,2 554,445,619,579,2 332,518,403,633,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11433.jpg 306,117,634,610,2 1,46,280,502,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11441.jpg 328,121,449,299,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11454.jpg 219,124,442,441,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11467.jpg 54,146,364,530,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11470.jpg 305,233,474,387,2 438,39,570,333,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11477.jpg 90,155,558,520,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11489.jpg 48,251,244,547,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11498.jpg 450,157,539,287,2 470,314,573,457,2 518,2,629,85,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11506.jpg 82,138,483,523,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11510.jpg 117,262,350,592,2 356,203,588,591,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11512.jpg 207,232,477,399,2 185,405,469,599,2 208,49,490,216,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11517.jpg 103,130,313,288,2 317,229,472,330,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11542.jpg 221,154,437,467,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11547.jpg 110,66,430,576,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11553.jpg 477,302,640,459,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11555.jpg 234,169,398,407,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11566.jpg 189,147,394,432,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11584.jpg 120,105,535,578,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11608.jpg 111,182,366,578,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11619.jpg 274,213,506,567,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11632.jpg 133,113,580,581,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11644.jpg 1,267,289,417,2 198,181,418,306,2 76,93,247,179,2 417,232,568,315,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11648.jpg 266,236,394,419,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11655.jpg 54,253,153,418,2 155,326,252,485,2 257,383,354,561,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11672.jpg 59,101,530,489,2 377,4,632,131,2 17,467,430,635,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11706.jpg 367,56,608,412,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11707.jpg 179,166,333,360,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11712.jpg 35,313,414,553,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11739.jpg 174,116,464,507,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11741.jpg 344,249,485,442,2 139,175,298,405,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11769.jpg 198,50,494,486,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11770.jpg 1,215,638,641,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11805.jpg 77,133,293,465,2 309,136,576,504,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11808.jpg 89,239,507,568,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11829.jpg 233,156,382,526,2 469,59,617,309,2 121,439,252,618,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11832.jpg 406,92,518,221,2 572,76,641,159,2 553,164,641,276,2 430,347,555,505,2 544,491,636,571,2 287,519,384,609,2 399,502,518,594,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11836.jpg 266,298,419,477,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11848.jpg 214,280,641,578,2 1,6,420,272,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11850.jpg 288,330,364,431,2 161,8,243,156,2 264,7,367,146,2 65,97,185,250,2 453,73,515,194,2 307,182,402,318,2 421,218,498,319,2 561,218,612,293,2 520,16,588,128,2 515,570,588,639,2 29,382,172,488,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11856.jpg 402,287,491,433,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11864.jpg 354,324,532,550,2 112,372,324,641,2 330,2,582,305,2 152,106,331,351,2 1,1,90,90,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11882.jpg 63,439,292,580,2 55,248,291,390,2 45,46,286,205,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11883.jpg 330,1,458,118,2 428,413,496,544,2 345,446,416,544,2 478,531,563,631,2 561,264,622,356,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11894.jpg 274,173,493,516,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11900.jpg 43,198,184,376,2 340,130,501,298,2 189,317,340,492,2 79,412,167,531,2 210,491,338,636,2 358,1,457,102,2 241,1,355,187,2 345,380,459,580,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11910.jpg 307,12,641,641,2 6,66,302,444,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11915.jpg 316,23,451,226,2 444,94,636,431,2 1,1,121,264,2 229,506,361,641,2 56,392,224,641,2 378,421,537,639,2 8,256,157,393,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11922.jpg 309,138,471,373,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11937.jpg 3,30,285,471,2 307,147,612,641,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11941.jpg 131,167,406,460,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11949.jpg 33,1,310,407,2 318,132,542,523,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11953.jpg 421,243,527,439,2 248,440,359,584,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11954.jpg 225,188,404,473,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11963.jpg 413,1,525,67,2 1,123,89,224,2 145,196,289,299,2 176,382,323,500,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11970.jpg 1,201,111,516,2 119,254,318,604,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11978.jpg 364,82,539,285,2 395,403,550,625,2 248,209,406,412,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11984.jpg 259,260,577,484,2 124,463,376,636,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_11998.jpg 48,77,428,640,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12008.jpg 40,218,288,575,2 1,1,218,210,2 276,231,543,640,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12024.jpg 301,125,513,474,2 119,114,300,444,2 316,461,533,641,2 519,231,641,611,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12029.jpg 99,162,287,258,2 277,90,481,226,2 524,1,641,130,2 384,1,520,99,2 493,121,614,221,2 362,256,546,370,2 157,261,348,383,2 1,253,147,370,2 181,413,361,522,2 512,553,641,638,2 80,477,212,583,2 5,364,118,486,2 584,378,641,495,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12044.jpg 51,37,497,346,2 147,348,563,624,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12045.jpg 177,242,359,468,2 315,117,480,330,2 10,326,146,499,2 189,64,279,181,2 63,181,155,266,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12048.jpg 54,228,298,576,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12049.jpg 332,53,589,451,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12062.jpg 90,70,547,566,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12073.jpg 35,88,602,591,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12089.jpg 355,235,508,475,2 256,365,375,603,2 28,277,240,571,2 239,257,343,354,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12095.jpg 313,150,532,479,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12099.jpg 199,164,529,388,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12104.jpg 67,26,617,634,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12106.jpg 151,110,299,286,2 380,196,525,374,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12116.jpg 126,90,467,610,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12119.jpg 2,358,279,549,2 199,213,456,392,2 424,60,635,313,2 452,330,641,453,2 322,449,496,619,2 246,55,368,156,2 112,152,232,261,2 1,210,110,358,2 225,1,435,56,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12122.jpg 161,28,364,330,2 294,305,484,605,2 1,420,101,641,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12134.jpg 190,183,317,378,2 441,123,550,280,2 333,431,460,629,2 475,3,587,125,2 144,428,251,592,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12144.jpg 38,277,403,560,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12151.jpg 168,173,573,464,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12155.jpg 262,35,446,301,2 305,310,447,536,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12171.jpg 115,96,262,333,2 279,191,384,419,2 391,276,499,525,2 500,473,601,585,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12180.jpg 195,198,380,445,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12199.jpg 137,12,444,518,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12210.jpg 20,29,618,629,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12218.jpg 179,165,403,490,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12223.jpg 37,153,592,513,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12234.jpg 50,35,267,241,2 300,8,445,202,2 452,142,629,359,2 27,263,185,449,2 228,221,418,425,2 426,385,597,540,2 277,455,417,619,2 136,435,248,611,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12246.jpg 74,2,623,641,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12264.jpg 101,384,250,636,2 231,270,355,462,2 334,117,470,339,2 453,1,612,208,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12283.jpg 10,29,636,632,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12332.jpg 358,231,532,492,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12335.jpg 79,63,337,263,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12337.jpg 96,111,284,392,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12362.jpg 74,237,273,538,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12370.jpg 166,113,496,604,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12385.jpg 69,65,538,520,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12389.jpg 72,359,277,641,2 168,151,371,344,2 278,2,438,164,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12397.jpg 1,92,531,599,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12410.jpg 79,211,397,629,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12415.jpg 22,221,232,502,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12431.jpg 402,288,587,512,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12442.jpg 142,171,569,622,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12443.jpg 220,237,353,426,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12459.jpg 49,156,135,247,2 397,216,468,325,2 238,263,314,421,2 308,336,398,476,2 432,343,509,462,2 108,457,203,561,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12464.jpg 263,156,422,359,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12468.jpg 181,168,377,489,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12480.jpg 51,243,300,406,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12499.jpg 83,68,523,366,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12505.jpg 183,1,319,200,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12516.jpg 186,143,465,514,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12517.jpg 105,133,184,224,2 68,236,145,361,2 1,206,60,332,2 1,350,102,498,2 130,332,206,431,2 127,522,220,634,2 205,348,281,477,2 136,435,202,521,2 65,588,142,641,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12523.jpg 56,212,134,311,2 422,263,521,400,2 514,102,596,231,2 73,392,152,503,2 1,451,58,564,2 555,415,641,550,2 208,349,277,448,2 238,141,321,281,2 382,1,461,91,2 470,1,553,101,2 177,579,259,641,2 197,457,272,549,2 437,407,514,523,2 321,206,379,294,2 68,27,178,219,2 300,449,378,516,2 385,478,442,560,2 278,35,335,130,2 572,205,641,306,2 120,290,185,390,2 199,258,266,344,2 478,572,558,641,2 383,107,491,259,2 288,310,386,442,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12562.jpg 1,21,352,641,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12588.jpg 101,12,610,556,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12595.jpg 187,98,464,378,2 102,378,397,639,2 449,259,641,555,2 1,64,166,293,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12597.jpg 276,215,493,519,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12605.jpg 189,128,273,267,2 185,1,281,109,2 116,126,178,238,2 30,212,111,328,2 85,340,175,470,2 200,395,286,519,2 31,518,124,632,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12609.jpg 290,235,487,489,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12620.jpg 47,415,176,628,2 214,397,384,629,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12665.jpg 44,282,235,549,2 160,35,450,295,2 244,297,595,584,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12669.jpg 161,226,471,407,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12674.jpg 232,91,406,283,2 41,401,259,638,2 417,50,552,202,2 411,383,563,520,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12693.jpg 304,96,425,299,2 154,143,292,357,2 27,346,128,422,2 147,343,230,476,2 442,108,511,168,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12703.jpg 321,332,579,623,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12719.jpg 85,11,363,189,2 96,196,400,387,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12739.jpg 228,433,413,553,2 280,265,511,426,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12773.jpg 99,138,344,534,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12806.jpg 206,236,338,431,2 368,191,495,378,2 68,333,195,537,2 261,143,370,236,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12808.jpg 59,69,425,331,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12819.jpg 208,105,445,483,2 434,1,625,110,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12826.jpg 202,239,442,602,2 437,1,627,238,2 423,472,616,641,2 340,104,446,247,2 43,341,194,492,2 15,215,198,337,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12827.jpg 283,84,455,355,2 108,31,272,215,2 168,381,310,583,2 551,31,641,188,2 458,226,594,348,2 11,224,163,510,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12838.jpg 185,128,523,486,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12844.jpg 177,146,445,521,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12853.jpg 1,147,207,341,2 220,308,450,455,2 364,162,514,302,2 133,54,363,221,2 370,8,572,165,2 1,554,260,641,2 227,468,319,593,2 1,367,227,545,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12865.jpg 168,205,409,574,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12867.jpg 368,243,484,424,2 59,425,170,604,2 558,112,641,301,2 566,353,641,525,2 484,360,551,523,2 232,17,325,178,2 225,189,333,386,2 112,289,203,425,2 185,556,272,641,2 273,431,369,564,2 458,1,573,124,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12869.jpg 249,94,301,175,2 373,177,415,238,2 172,91,217,151,2 501,125,544,191,2 269,341,324,420,2 483,424,544,520,2 223,449,277,525,2 85,203,134,268,2 469,205,532,273,2 490,275,546,335,2 331,388,371,452,2 375,330,418,384,2 303,478,343,541,2 345,487,388,552,2 376,389,417,447,2 88,381,128,426,2 335,99,391,170,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12877.jpg 3,128,217,329,2 205,268,531,482,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12879.jpg 344,116,497,352,2 67,67,265,252,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12884.jpg 266,192,495,550,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12897.jpg 83,156,521,514,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12902.jpg 290,196,466,492,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12905.jpg 1,1,227,308,2 120,172,351,555,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12911.jpg 171,223,465,425,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12950.jpg 194,201,507,563,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12976.jpg 134,171,476,409,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12977.jpg 266,126,482,458,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12978.jpg 179,144,500,586,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_12993.jpg 135,95,540,491,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13015.jpg 98,133,439,639,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13045.jpg 205,359,338,546,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13077.jpg 184,361,442,550,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13089.jpg 198,232,631,486,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13092.jpg 88,268,283,576,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13097.jpg 9,108,327,617,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13101.jpg 13,196,372,639,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13119.jpg 188,179,438,553,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13123.jpg 219,201,427,534,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13129.jpg 70,104,253,452,2 260,222,486,590,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13133.jpg 185,178,451,309,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13149.jpg 182,72,514,610,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13168.jpg 307,175,519,321,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13172.jpg 208,234,474,388,2 180,405,471,594,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13181.jpg 82,173,445,412,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13197.jpg 239,306,314,396,2 321,271,407,391,2 419,266,511,383,2 517,280,595,375,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13206.jpg 66,1,339,196,2 213,177,413,453,2 351,1,515,168,2 390,378,590,641,2 195,566,384,641,2 1,210,138,378,2 132,381,237,625,2 512,3,641,367,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13234.jpg 94,108,536,534,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13248.jpg 108,131,294,420,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13288.jpg 65,30,240,301,2 232,198,365,464,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13312.jpg 332,351,530,484,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13327.jpg 54,288,324,392,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13354.jpg 145,97,515,500,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13371.jpg 197,82,496,461,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13374.jpg 270,83,507,240,2 122,147,294,279,2 54,60,179,139,2 1,462,88,554,2 407,567,599,641,2 511,80,636,212,2 195,21,353,93,2 166,405,310,474,2 266,474,390,558,2 1,172,112,252,2 1,1,139,63,2 338,1,529,54,2 506,229,599,357,2 188,563,388,641,2 108,465,260,564,2 569,363,641,482,2 331,346,567,470,2 26,280,160,427,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13376.jpg 181,187,472,613,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13378.jpg 45,10,544,579,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13389.jpg 302,195,493,514,2 187,23,323,233,2 241,471,369,641,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13392.jpg 200,269,333,478,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13399.jpg 86,213,445,478,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13403.jpg 94,277,255,507,2 1,1,110,124,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13405.jpg 1,173,640,640,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13420.jpg 372,238,640,407,2 214,22,555,224,2 194,462,305,599,2 31,215,356,449,2 558,422,640,607,2 34,1,269,64,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13423.jpg 1,517,124,639,2 64,229,229,388,2 177,444,384,560,2 264,319,470,450,2 470,275,609,392,2 404,178,471,259,2 508,117,640,262,2 504,1,623,108,2 265,72,455,178,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13426.jpg 98,262,291,611,2 287,20,554,429,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13438.jpg 207,129,382,245,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13455.jpg 50,322,124,432,2 33,185,102,317,2 139,180,201,259,2 107,259,187,367,2 266,79,337,170,2 275,1,358,75,2 507,64,587,191,2 467,258,556,410,2 388,260,459,373,2 318,174,374,274,2 238,297,310,417,2 228,495,306,636,2 77,435,131,536,2 447,407,516,498,2 376,137,450,255,2 360,1,412,95,2 1,1,41,55,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13466.jpg 344,537,503,602,2 355,48,464,130,2 569,358,630,407,2 345,603,516,640,2 77,268,188,343,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13498.jpg 148,239,373,369,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13499.jpg 364,44,484,234,2 216,75,332,248,2 1,232,73,386,2 15,43,102,152,2 44,146,132,248,2 484,1,581,181,2 268,1,365,76,2 52,404,176,596,2 1,468,63,640,2 237,487,357,634,2 367,254,498,445,2 374,506,476,635,2 525,174,640,378,2 146,124,210,206,2 518,398,621,502,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13521.jpg 103,490,283,640,2 96,320,267,489,2 514,127,604,234,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13527.jpg 156,3,574,556,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13535.jpg 35,30,361,229,2 260,499,468,640,2 418,306,604,479,2 222,192,457,376,2 125,373,307,568,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13541.jpg 52,12,202,158,2 167,243,362,409,2 350,326,581,503,2 114,427,324,543,2 81,571,258,640,2 3,459,74,593,2 72,185,207,286,2 1,152,66,269,2 529,117,640,295,2 371,174,531,323,2 185,61,366,212,2 368,29,487,114,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13567.jpg 102,140,225,318,2 353,84,470,258,2 231,14,347,196,2 450,232,613,501,2 143,377,291,624,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13576.jpg 129,1,287,188,2 255,388,406,628,2 171,184,330,384,2 387,268,496,517,2 290,55,432,211,2 86,132,173,300,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13589.jpg 1,1,201,136,2 136,120,337,406,2 339,215,549,514,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13590.jpg 9,305,324,537,2 278,216,640,489,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13617.jpg 230,214,395,464,2 416,234,572,488,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13623.jpg 74,7,330,174,2 200,177,519,634,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13634.jpg 354,71,617,431,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13640.jpg 30,93,277,265,2 285,41,537,225,2 197,217,488,406,2 495,258,640,435,2 512,1,640,129,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13643.jpg 100,321,218,479,2 415,395,522,518,2 396,130,494,248,2 243,389,364,535,2 101,182,212,314,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13650.jpg 198,60,436,433,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13651.jpg 294,289,356,359,2 420,232,490,321,2 223,214,297,326,2 334,222,405,321,2 265,136,335,221,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13663.jpg 1,1,152,206,2 351,11,580,384,2 114,264,360,628,2 1,509,124,640,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13670.jpg 369,33,593,342,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13675.jpg 275,197,511,510,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13677.jpg 70,1,529,636,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13685.jpg 1,44,418,601,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13690.jpg 197,84,490,580,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13692.jpg 213,130,599,622,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13706.jpg 102,86,462,558,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13712.jpg 333,200,603,639,2 1,10,314,575,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13724.jpg 237,107,447,430,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13725.jpg 80,34,591,295,2 20,329,586,612,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13728.jpg 109,1,547,155,2 1,276,238,460,2 256,200,599,394,2 105,438,420,617,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13734.jpg 42,93,599,622,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13740.jpg 61,275,155,397,2 203,161,285,272,2 399,284,483,410,2 127,57,215,177,2 234,484,333,608,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13751.jpg 24,1,628,640,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13780.jpg 36,156,588,558,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13782.jpg 57,12,632,590,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13790.jpg 101,400,188,525,2 291,365,411,521,2 436,333,529,460,2 538,330,614,451,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13794.jpg 40,76,308,549,2 328,83,597,566,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13804.jpg 203,1,560,535,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13811.jpg 147,363,290,588,2 251,149,429,435,2 317,71,440,159,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13815.jpg 1,1,124,138,2 98,217,257,470,2 254,85,428,357,2 227,371,393,627,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13833.jpg 44,261,344,640,2 380,124,640,568,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13836.jpg 85,154,350,331,2 76,349,405,553,2 351,236,591,379,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13851.jpg 21,265,191,482,2 195,238,384,481,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13897.jpg 18,174,366,373,2 380,237,611,447,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13914.jpg 1,126,360,390,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13925.jpg 210,65,543,272,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13936.jpg 165,177,280,317,2 59,421,177,591,2 193,424,304,586,2 128,311,243,429,2 255,297,366,436,2 299,156,432,313,2 372,309,490,428,2 312,431,438,582,2 447,413,578,585,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13937.jpg 358,242,553,537,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13944.jpg 79,114,334,268,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13949.jpg 367,114,554,388,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13957.jpg 28,193,213,463,2 369,80,554,354,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13958.jpg 245,198,393,455,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13962.jpg 136,59,490,595,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13967.jpg 251,68,531,460,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13974.jpg 169,246,329,493,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13977.jpg 37,132,313,574,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13983.jpg 8,254,268,421,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_13988.jpg 133,259,302,559,2 354,252,521,565,2 245,67,386,266,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14004.jpg 90,247,214,354,2 208,179,301,270,2 354,281,485,393,2 503,282,636,451,2 242,392,384,548,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14012.jpg 61,145,159,270,2 23,61,108,148,2 153,30,254,180,2 15,277,145,452,2 293,294,369,391,2 178,258,273,397,2 438,433,545,618,2 367,65,423,195,2 266,145,355,289,2 326,1,394,72,2 547,120,641,280,2 580,287,641,398,2 482,235,577,365,2 282,72,356,143,2 137,524,249,641,2 480,1,529,43,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14013.jpg 122,3,394,400,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14030.jpg 12,48,555,579,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14038.jpg 128,225,336,487,2 333,78,542,388,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14068.jpg 416,191,570,425,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14094.jpg 156,86,548,592,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14098.jpg 267,215,492,546,2 501,87,640,441,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14108.jpg 103,95,341,446,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14134.jpg 78,237,256,365,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14155.jpg 303,336,542,640,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14158.jpg 203,213,473,431,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14160.jpg 49,102,276,253,2 279,51,482,172,2 1,348,116,461,2 1,203,95,318,2 173,267,398,417,2 335,194,498,322,2 483,132,608,258,2 374,351,589,490,2 319,472,555,601,2 120,416,310,550,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14163.jpg 257,224,525,625,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14173.jpg 1,233,271,604,2 244,69,561,397,2 311,390,626,640,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14178.jpg 382,113,531,284,2 322,277,505,556,2 1,136,181,355,2 1,393,125,593,2 138,351,283,482,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14180.jpg 230,191,440,513,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14192.jpg 124,47,501,525,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14206.jpg 228,260,470,621,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14213.jpg 51,124,392,632,2 94,4,384,120,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14219.jpg 111,94,597,407,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14225.jpg 210,70,457,431,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14227.jpg 195,133,492,604,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14232.jpg 124,259,274,470,2 367,125,479,301,2 493,106,601,285,2 392,313,496,491,2 167,469,297,626,2 184,1,259,166,2 564,1,640,138,2 500,379,640,587,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14233.jpg 245,125,378,221,2 125,310,248,402,2 323,346,489,459,2 1,343,129,460,2 455,103,576,191,2 207,548,400,640,2 226,1,395,55,2 1,223,75,332,2 400,273,535,359,2 291,435,427,548,2 166,78,251,173,2 524,1,640,98,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14299.jpg 353,73,499,277,2 405,4,528,74,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14302.jpg 340,437,633,621,2 234,224,560,435,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14311.jpg 206,114,340,304,2 302,448,423,543,2 348,91,535,206,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14312.jpg 124,179,506,466,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14324.jpg 182,287,417,474,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14331.jpg 29,63,503,427,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14338.jpg 40,134,169,335,2 87,438,301,641,2 290,344,423,621,2 247,32,335,191,2 433,421,618,641,2 84,341,194,434,2 186,190,327,343,2 393,240,523,419,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14341.jpg 171,385,329,631,2 394,276,566,535,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14342.jpg 144,154,406,542,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14346.jpg 121,1,310,181,2 302,14,499,320,2 192,306,405,590,2 121,175,283,354,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14362.jpg 137,337,250,501,2 271,245,425,474,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14367.jpg 72,218,248,488,2 311,138,484,393,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14380.jpg 49,425,171,618,2 361,242,484,431,2 215,204,340,390,2 224,16,328,176,2 542,109,641,297,2 566,353,641,523,2 270,429,370,560,2 416,110,514,235,2 107,288,188,425,2 462,1,575,97,2 184,556,267,641,2 1,377,49,561,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14385.jpg 33,231,474,526,2 144,72,525,226,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14392.jpg 124,239,425,396,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14402.jpg 159,17,531,524,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14404.jpg 8,114,218,239,2 445,419,640,610,2 84,481,252,640,2 1,490,81,638,2 25,255,393,475,2 198,54,317,259,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14420.jpg 46,25,496,289,2 94,314,596,616,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14423.jpg 133,120,278,256,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14432.jpg 97,87,497,559,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14434.jpg 238,85,632,354,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14441.jpg 179,151,447,549,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14474.jpg 130,126,312,394,2 265,383,473,640,2 318,173,449,380,2 445,1,602,128,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14476.jpg 334,316,553,498,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14477.jpg 65,199,257,495,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14489.jpg 1,108,147,276,2 318,407,570,583,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14492.jpg 201,287,417,458,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14522.jpg 176,187,457,494,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14527.jpg 62,293,203,383,2 272,395,403,470,2 418,368,516,456,2 392,244,547,356,2 247,467,365,531,2 392,457,513,531,2 531,350,629,409,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14535.jpg 240,224,393,399,2 417,300,601,531,2 383,16,496,144,2 512,70,641,201,2 1,99,136,202,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14543.jpg 380,104,522,303,2 393,373,482,540,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14555.jpg 114,134,377,501,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14585.jpg 99,309,254,443,2 292,321,470,468,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14600.jpg 103,128,336,458,2 341,162,544,472,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14617.jpg 166,179,374,496,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14625.jpg 153,131,452,535,2
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14631.jpg 212,89,573,584,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14637.jpg 130,65,532,593,0 429,1,640,284,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14653.jpg 233,74,544,495,0 465,417,640,640,0 487,234,605,440,0 188,368,358,602,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14658.jpg 168,133,514,582,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14659.jpg 144,64,529,544,0 101,381,291,631,0 30,20,154,200,0 547,348,640,506,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14661.jpg 123,83,489,537,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14674.jpg 211,180,486,543,0 404,588,547,640,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14681.jpg 168,131,464,519,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14686.jpg 114,91,536,600,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14697.jpg 140,21,531,602,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14707.jpg 152,81,484,572,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14711.jpg 101,133,470,634,0 136,1,472,167,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14719.jpg 1,47,624,633,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14722.jpg 10,60,573,557,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14732.jpg 109,59,527,560,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14733.jpg 235,178,483,506,0 583,186,640,351,0 187,1,389,257,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14739.jpg 206,233,395,507,0 90,219,142,280,0 69,18,113,76,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14741.jpg 120,47,529,576,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14754.jpg 127,148,461,558,0 83,1,214,128,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14758.jpg 191,146,535,556,0 562,453,640,640,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14777.jpg 171,128,434,472,0 374,425,482,560,0 111,37,213,159,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14800.jpg 314,291,364,398,0 432,30,502,167,0 430,242,468,317,0 433,338,462,398,0 378,472,439,597,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14831.jpg 195,43,484,640,0 118,1,334,215,0 396,35,449,132,0 477,171,538,299,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14836.jpg 309,80,549,640,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14856.jpg 257,238,407,558,0 125,70,181,196,0 183,3,238,118,0 1,368,164,640,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14869.jpg 254,104,445,498,0 177,64,256,212,0 88,31,151,139,0 144,208,187,283,0 112,309,158,398,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14883.jpg 262,84,470,583,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14892.jpg 295,166,501,595,0 186,472,326,640,0 143,1,254,223,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14894.jpg 265,19,491,512,0 73,289,199,542,0 217,373,377,640,0 92,116,151,219,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14899.jpg 221,63,454,581,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14904.jpg 127,24,360,554,0 373,134,579,599,0 250,443,386,640,0 8,155,178,572,0 355,1,440,97,0 436,1,533,163,0 1,18,38,367,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14906.jpg 256,92,471,534,0 80,30,163,222,0 55,219,94,311,0 192,75,269,219,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14910.jpg 1,516,130,640,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14917.jpg 1,302,298,640,0 526,519,640,640,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14921.jpg 317,470,613,640,0
+D:\python_bs\Code\Apple_Grading_Detection\DataSet/all_images/Apple_Grading_14924.jpg 44,121,150,219,0 419,132,529,237,0 579,215,640,381,0 1,277,129,532,0

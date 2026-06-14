@@ -1,0 +1,4 @@
+disease_apple
+good_apple
+rotten_apple
+soso_apple

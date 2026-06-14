@@ -1,0 +1,15 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+
+path: D:\Download\Code\Code\Apple_Grading_Detection\DataSet # dataset root dir
+train: images/train/  # train images
+val: images/val/  # val images
+test: images/test/ # test images (optional)
+
+nc: 4
+
+# Classes
+names:
+  0: disease_apple
+  1: good_apple
+  2: rotten_apple
+  3: soso_apple
