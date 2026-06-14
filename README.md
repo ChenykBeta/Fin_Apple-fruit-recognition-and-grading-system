@@ -191,6 +191,28 @@ Faster R-CNN 相关代码位于 `Faster_Rcnn/`，可用于对比实验。训练�
 
 可用于生成不同模型的性能对比图。
 
+### 模型对比图表
+
+综合测试性能对比：
+
+![综合测试性能对比](Fig/Test_performance_compare.png)
+
+mAP50 对比曲线：
+
+![mAP50 对比曲线](Fig/mAP50_compare.png)
+
+Precision 对比曲线：
+
+![Precision 对比曲线](Fig/Precision_compare.png)
+
+Recall 对比曲线：
+
+![Recall 对比曲线](Fig/Recall_compare.png)
+
+F1 Score 对比曲线：
+
+![F1 Score 对比曲线](Fig/F1_Score_compare.png)
+
 ## GitHub 上传说明
 
 当前 GitHub 仓库只上传源代码和轻量资源，不上传数据集、训练结果和模型权重。若需要完整运行检测效果，请自行补充：
